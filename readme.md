@@ -1,15 +1,17 @@
 # 99 Bottles of Beer
 
-Build an express application that enables users to count down the number
-of bottles of beer.
+Build an express application that enables users to count down the number of bottles of beer.
+
+---
 
 ## Instructions
 
-1. Clone this repository
+1. Fork and Clone this repository
 2. Change into the new directory
-3. Work through the requirements listed below
+3. make a new branch 
+4. Work through the requirements listed below
 
-You do not need to fork this repository and make a pull request.
+---
 
 ## Requirements
 
@@ -22,6 +24,3 @@ You do not need to fork this repository and make a pull request.
   - a link to "take one down, pass it around", where the href is number of bottles in the parameter minus 1.
 - If there are 0 bottles left, do not show a link to "take one down"
   - Add a link to start over, which directs the user back to the home page.
-
-> You may need to do some further research on Handlebars to get it working! See if there's a way to create conditionals in Handlebars.
-
